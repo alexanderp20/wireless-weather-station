@@ -7,3 +7,5 @@ where it uses a 5V solar panel to power an MSP432 TI microcontroller as well as 
 The solar panel is also encased in a 3D printed stand which is connected to a rotating wheel that is spun using a servo motor.
 The original build was going to use a BMP280 pressure/temp sensor; however, we decided to just use a temperature sensor instead.
 Other sensors can be utilized to enhance the station such as a humidity sensor or an AQ sensor, the possibilities are endless. 
+
+Link to Slides(More Detailed Info): https://docs.google.com/presentation/d/1PSUSFK6MqLPTG2-99QEV4jIOzdOmJadtggiggVlIRdQ/edit?usp=sharing
